@@ -1,3 +1,3 @@
 # CMPT104-Cssnge
 
-Test
+A Simple Javascript file created for CMPT 104
